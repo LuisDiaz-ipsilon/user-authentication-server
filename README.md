@@ -1,6 +1,8 @@
 # user-authentication-server
 Aplicacion backend de registro de usuarios con node
 
+Documentacion directo de postman
+https://documenter.getpostman.com/view/14273619/2s9XxtzbeM 
 
 Metodos HTTP
 User Auth Google Cloud
